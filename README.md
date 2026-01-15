@@ -1,30 +1,29 @@
-<div align="center">
+<h1 align="center">Greetings Fellow Lifeforms,, I'm I am UnEliteFish52,</h1>
+<h3 align="center">and currently I'm ,</h3>
 
-<!-- Matrix-style header -->
-<img src="https://capsule-render.vercel.app/api? type=waving&color=0: 0D1117,50:00FF41,100:0D1117&height=200&section=header&text=LOKI&fontSize=80&fontColor=00FF41&fontAlignY=35&desc=Cybersecurity%20Enthusiast%20|%20Breaking%20%26%20Securing%20Systems&descSize=18&descAlignY=55&descColor=00FF41&animation=twinkling" width="100%"/>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=unelitefish52&label=Profile%20views&color=0e75b6&style=flat" alt="unelitefish52" /> </p>
 
-<!-- Typing SVG -->
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=00FF41&center=true&vCenter=true&multiline=true&repeat=true&width=800&height=100&lines=%24+whoami;Cybersecurity+Practitioner+%7C+Ethical+Hacker+in+Training;Defensive+%2B+Offensive+Security+%7C+Always+Learning" alt="Typing SVG" /></a>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=unelitefish52" alt="unelitefish52" /></a> </p>
 
-<br/>
+- 🌱 I’m currently learning **linux and other cool stuff**
 
-<!-- Profile Views & Followers -->
-![Profile Views](https://komarev.com/ghpvc/?username=UnEliteFish52&style=for-the-badge&color=00FF41&label=PROFILE+VIEWS)
-[![GitHub followers](https://img.shields.io/github/followers/UnEliteFish52? style=for-the-badge&color=00FF41&labelColor=0D1117&logo=github)](https://github.com/UnEliteFish52)
+- 👯 I’m looking to collaborate on this open source project [lokii.tech](https://lokii.tech/)
 
-</div>
+- 💬 Ask me about **computer security and linux**
 
----
+- 📫 How to reach me **god@lokii.tech**
 
-## `> cat /etc/loki/about.conf`
+- ⚡ Fun fact **the acronym WiFi is sus**
 
-```bash
-┌──(loki㉿kali)-[~]
-└─$ cat ~/about_me.txt
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+</p>
 
-[+] Location     :  Lalitpur, Nepal 🇳🇵
-[+] Role         : Cybersecurity Enthusiast | Blue & Red Team Learner
-[+] Cert         : Google Cybersecurity Professional Certificate ✓
-[+] Currently    : Building offensive skills + Homelab projects
-[+] Philosophy   : "Hack to learn, not learn to hack"
-[+] Mission      : Secure the digital world, one system at a time
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://mariadb.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/mariadb/mariadb-icon.svg" alt="mariadb" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> </p>
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=unelitefish52&show_icons=true&theme=highcontrast&title_color=87f31b&text_color=13e0fb&hide_border=true&locale=en&layout=compact" alt="unelitefish52" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=unelitefish52&show_icons=true&theme=dark&title_color=9fe916&text_color=18cfdc&hide_border=true&locale=en" alt="unelitefish52" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=unelitefish52&" alt="unelitefish52" /></p>
